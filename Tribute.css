@@ -1,0 +1,36 @@
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4vw;
+    text-align: center;
+    margin-top: 2%;
+    color: lightskyblue;
+}
+#img-div {
+    padding: 5%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    max-width: 400px;
+    max-height: 200px;
+    color: lightslategray;
+}
+
+#image {
+    width: 400px;
+    height: 200px;
+}
+
+#tribute-info {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.text {
+    margin-top: 5%;
+    text-align: left;
+}
+
+a:hover {
+    color: blue;
+    cursor: pointer;
+}
